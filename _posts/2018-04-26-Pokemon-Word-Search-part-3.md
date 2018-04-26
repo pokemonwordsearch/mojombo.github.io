@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pokemon Word Search - Part 6
-desc: Free and Printable Pokemon Word Search - Part 6
+title: Pokemon Word Search - Part 3
+desc: Free and Printable Pokemon Word Search - Part 3
 categoties: [Pokemon Word Search]
 ---
 {{ page.title }}
@@ -23,22 +23,22 @@ categoties: [Pokemon Word Search]
 * [Pokemon Word Search - Part 9](http://pokemonwordsearch.xyz/2018/04/26/Pokemon-Word-Search-part-9.html)
 * [Pokemon Word Search - Part 10](http://pokemonwordsearch.xyz/2018/04/26/Pokemon-Word-Search-part-10.html)
 
-## Pokemon Word Search No. 26
-![Pokemon Word Search 26](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(26).jpg "Pokemon Word Search 26")
+## Pokemon Word Search No. 11
+![Pokemon Word Search 11](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(11).jpg "Pokemon Word Search 11")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
-## Pokemon Word Search No. 27
-![Pokemon Word Search 27](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(27).jpg "Pokemon Word Search 27")
+## Pokemon Word Search No. 12
+![Pokemon Word Search 12](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(12).jpg "Pokemon Word Search 12")
 
-## Pokemon Word Search No. 28
-![Pokemon Word Search 28](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(28).jpg "Pokemon Word Search 28")
+## Pokemon Word Search No. 13
+![Pokemon Word Search 13](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(13).jpg "Pokemon Word Search 13")
 
-## Pokemon Word Search No. 29
-![Pokemon Word Search 29](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(29).jpg "Pokemon Word Search 29")
+## Pokemon Word Search No. 14
+![Pokemon Word Search 14](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(14).jpg "Pokemon Word Search 14")
 
-## Pokemon Word Search No. 30
-![Pokemon Word Search 30](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(30).jpg "Pokemon Word Search 30")
+## Pokemon Word Search No. 15
+![Pokemon Word Search 15](http://pokemonwordsearch.xyz/images/Pokemon-Word-Search%20(15).jpg "Pokemon Word Search 15")
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Texxtonly --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-6753140515841889" data-ad-slot="3207852233"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
 
